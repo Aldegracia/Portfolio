@@ -16,7 +16,7 @@
   background-size: contain;
   padding-top: 3rem;
   @include respond-below(xs) {
-    align-items: center;
+    align-items: flex-start;
   }
 }
 
