@@ -1,0 +1,42 @@
+[
+  {
+    "course": "Bachelor of Science in Electronics Engineering",
+    "university": "Laguna State Polytechnic Univerity",
+    "duration": "July 2018 - July 2023",
+    "location": "San Pablo City, Laguna, Philippines",
+    "image": "",
+    "url": "https://lspu.edu.ph/courses/spc",
+    "responsibilities": [
+      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
+      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
+      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
+      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
+      "Experienced Arabic RTL layout in two significant projects.",
+      "Successfully met deadlines, delivering 10+ projects on time."
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "course": "Information & Communication Technology",
+    "university": "AMA Computer Learning Center",
+    "duration": "February 2016 - April 2018",
+    "location": "San Pablo City, Laguna, Philippines",
+    "image": "/company/denge-bilgisayar.svg",
+    "url": "http://www.aclc.edu.ph/",
+    "responsibilities": [
+      "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
+      "Collaborated closely with two backend developers, creating the frontend of the entire project.",
+      "Ensured fast page loading, scoring over 90 in page speed.",
+      "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  }
+]

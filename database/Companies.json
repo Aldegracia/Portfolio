@@ -1,0 +1,42 @@
+[
+  {
+    "position": "Website & Graphic Designer",
+    "company": "EnfraUSA Solution, Inc.",
+    "duration": "August 2023 - Present",
+    "location": "Remote",
+    "image": "/company/tentwenty.svg",
+    "url": "https://enfrausa.com/",
+    "responsibilities": [
+      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
+      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
+      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
+      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
+      "Experienced Arabic RTL layout in two significant projects.",
+      "Successfully met deadlines, delivering 10+ projects on time."
+    ],
+    "color": {
+      "h": "221",
+      "s": "79%",
+      "l": "51%"
+    }
+  },
+  {
+    "position": "Frontend Developer",
+    "company": "Frontline Business Solution, Inc.",
+    "duration": "February 2023 - April 2023",
+    "location": "Remote",
+    "image": "/company/denge-bilgisayar.svg",
+    "url": "https://frontlinebusiness.com.ph/",
+    "responsibilities": [
+      "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
+      "Collaborated closely with two backend developers, creating the frontend of the entire project.",
+      "Ensured fast page loading, scoring over 90 in page speed.",
+      "Focused on making the B2B e-commerce platform easy to use for 3000+ business customers."
+    ],
+    "color": {
+      "h": "206",
+      "s": "59%",
+      "l": "44%"
+    }
+  }
+]

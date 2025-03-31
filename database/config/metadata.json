@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "Aldrin",
+    "title": "Aldrin De Gracia - Front-End Developer",
+    "description": "I design & develop accessible, responsive, interactive, and animated websites with a strong focus on performance.",
+    "timeZone": "Asia/Manila",
+    "locale": "en-Asia"
+  },
+  "personal": {
+    "name": "Aldrin",
+    "surname": "De Gracia",
+    "role": "Front-End Developer",
+    "experience": 2,
+    "email": "degraciaaldrin7@gmail.com",
+    "phone": "+639665648218",
+    "city": "San Pablo",
+    "state": "LA",
+    "country": "Philippines",
+    "username": "@aldegracia",
+    "resumeURL": "https://docs.google.com/document/d/1M4mtRZekeMhkR0nCcEF03Kk8HRME8c5I89pCwHYO7NY/edit?usp=sharing"
+  },
+  "social": {
+    "facebook": "https://facebook.com/Alddegracia",
+    "twitter": "https://twitter.com/yasingencnet",
+    "instagram": "https://www.instagram.com/_aldegracia/",
+    "linkedin": "https://www.linkedin.com/in/aldrin-de-gracia-a2384418a/",
+    "github": "https://github.com/Aldegracia",
+    "codepen": "https://codepen.io/"
+    
+  },
+  "content": {
+    "verse": "I can do all things through Christ who strengthens me. [ Philippians 4:13 ]"
+  }
+}

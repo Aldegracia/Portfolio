@@ -1,0 +1,76 @@
+[
+  {
+    "icon": "IconReact",
+    "image": "/icon/icon-react.svg",
+    "title": "React JS",
+    "subtitle": "Next.js, Vercel",
+    "description": "Using React, I have familiar with the fundamentals and craft user interfaces with components, state management, and virtual DOM manipulation for seamless web applications."
+  },
+  {
+    "icon": "IconHTML",
+    "image": "/icon/html5-icon.svg",
+    "title": "HTML",
+    "subtitle": "Semantic Markup",
+    "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
+  },
+  {
+    "icon": "IconCSS",
+    "image": "/icon/css-icon.svg",
+    "title": "CSS",
+    "subtitle": "Animations, Sass, Tailwind",
+    "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience."
+  },
+  {
+    "icon": "IconJS",
+    "image": "/icon/icon-js.svg",
+    "title": "JavaScript",
+    "subtitle": "Vanilla, jQuery",
+    "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code."
+  },
+
+
+  {
+    "icon": "IconPhotoshop",
+    "image": "/icon/ps-icon.svg",
+    "title": "Photoshop",
+    "subtitle": "Creativity",
+    "description": "I have a understanding of Photoshop, including image editing, layering, and graphic design techniques."
+  },
+  {
+    "icon": "IconIllustrator",
+    "image": "/icon/ai-icon.svg",
+    "title": "Illustrator",
+    "subtitle": "Expressive",
+    "description": "Understanding of Adobe Illustrator, including vector graphics, logo design, and simple illustrations."
+  },
+  {
+    "icon": "IconFigma",
+    "image": "/icon/icon-figma.svg",
+    "title": "UI/UX",
+    "subtitle": "Figma Design & Adobe XD",
+    "description": "I have an eye for aesthetics, creating visually appealing and user-friendly interfaces."
+  },
+  {
+    "icon": "IconGH",
+    "image": "/icon/github-icon.svg",
+    "title": "Version Control",
+    "subtitle": "Git, GitHub, GitLab",
+    "description": "Experienced in version control systems like Git, ensuring efficient collaboration and code management."
+  },
+
+  {
+    "icon": "IconMS",
+    "image": "/icon/msoffice-icon.svg",
+    "title": "Microsoft Office",
+    "subtitle": "Productivity Suite",
+    "description": "Proficient in Microsoft Office Suite, including Word, Excel, and PowerPoint, for efficient document creation, data analysis, and presentations."
+  },
+  {
+    "icon": "IconWP",
+    "image": "/icon/wp-icon.svg",
+    "title": "Content Management System",
+    "subtitle": "WordPress & October CMS",
+    "description": "Basic knowledge of WordPress, including content management, theme customization, and plugin integration."
+  }
+
+]
